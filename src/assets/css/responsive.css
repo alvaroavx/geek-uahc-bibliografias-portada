@@ -1,0 +1,208 @@
+/**
+	OPENGEEK CSS
+	@AlvaxVargas 2020 OpenGeek
+	Estilos responsivos
+**/
+
+.only-mobile {
+	display: none;
+}
+.only-desktop {
+	display: block;
+}
+
+@media (max-width: 1200px) {
+	#title .repositorio {
+		font-size: 32px;
+	}
+	#title .banco {
+		font-size: 18px;
+	}
+}
+	
+/* main.css tiene 992 */
+@media (max-width: 991px) {
+	#title .repositorio {
+		font-size: 32px;
+	}
+	#title .banco {
+		font-size: 18px;
+	}
+	#main-container {
+		overflow-x: visible;
+	}
+	#main-content {
+		width: 100%;
+	}
+	#footer {
+		padding: 0 20px;
+	}
+	.only-mobile {
+		display: block !important;
+	}
+	.only-desktop {
+		display: none !important;
+	}
+	#buscador {
+		padding: 20px 100px 30px;
+	}
+	/* PORTADA */
+	.coleccion_container {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	#banner {
+		margin-top: -250px;
+	}
+}
+
+@media (max-width: 425px) {
+	.no-mobile {
+		display: none;
+	}
+	#title .repositorio {
+		font-size: 24px;
+	}
+	#title .banco {
+		font-size: 16px;
+	}
+	header .navbar-brand img.logo {
+		height: 50px;
+	}
+	#buscador {
+		padding: 40px 30px 30px;
+		display: flex;
+		flex-direction: column;
+	}
+	#buscador .avanzada {
+		margin-top: 10px;
+	}
+	.navbar-brand {
+		height: 90px;
+		padding: 0;
+	}
+	.resultado .artifact-description {
+		width: 100%;
+	}
+	/* VISTA REGISTRO */
+	#record .left {
+		width: 100%;
+	}
+	#record .right {
+		/*display: none;*/
+	}
+	/* PORTADA */
+	ul.nav.nav-pills.pull-left {
+		/*display: none;*/
+	}
+	#banner {
+		height: 500px;
+	}
+	#midcontent {
+		padding: 20px 0px;
+	}
+	.documento {
+		padding: 10px;
+	}
+	.documento .informacion {
+		margin-left: 0;
+	}
+	/* SLIDER */
+	#slider {
+		background: none;
+		position: relative;
+		display: none;
+	}
+	#articulos .articulo {
+		margin-top: 70px;
+	}
+	.articulo .imagen {
+		width: 160px;
+		height: 150px;
+	}
+	.articulo .imagen .portada {
+		top: 0;
+	}
+	.articulo .informacion {
+		padding: 0;
+	}
+	.articulo .titulo {
+		font-size: 23px;
+		font-weight: bold;
+		text-shadow: 1px 2px 2px #000000;
+	}
+	#title {
+		margin-left: 10px;
+    	text-align: left;
+	}
+	.navbar-toggle {
+		margin-top: 15px;
+	}
+	/* COLECCIONES */
+	.coleccion {
+		width: 300px;
+	}
+	.listado_colecciones {
+		width: 300px;
+	}
+	/* SIDEBAR */
+	#sidebar-left {
+		display: none;
+	}
+	#sidebar-left.home {
+		position: absolute;
+		top: 90px;
+		right: 0;
+		z-index: 9;
+		padding: 0px 30px 30px;
+		width: 250px;	
+		background-color: var(--azul_oscuro);
+		
+	}
+	.seccion.home {
+		padding-bottom: 0;
+	}
+	.seccion .titulo,
+	.seccion .listado li a {
+		color: white;
+	}
+	.seccion ul.listado {
+		padding: 0;
+		margin: 0;
+	}
+	/* LANGUAGE */
+	#languageSelection {
+		display: flex;
+		justify-content: space-between;
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	/* FOOTER */
+	#footer {
+		flex-direction: column;
+    	align-items: flex-end;
+		padding-top: 30px;
+    	padding-bottom: 20px;
+	}
+	#footer .left .logo {
+		width: 100px;
+		margin-top: 10px;
+	}
+	#footer .right {
+		padding-bottom: 20px;
+	}
+	.rrss .link {
+		width: 38px;
+		height: 38px;
+		margin-left: 20px;
+	}
+	#footer .col-md-3 {
+		margin-bottom: 20px;
+	}
+	#footer .mt-5 {
+		margin-top: 0px;
+	}
+	#footer .fono {
+		margin: 0 auto;
+	}
+}

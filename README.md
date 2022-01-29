@@ -1,2 +1,2 @@
-# geek-uahc-bibliografias-portada
-Portada React de la Academia UAHC para el repositorio de Bibliografías
+# uahc-portada
+Portada del repositorio Academia UAHC construido en ReactJS

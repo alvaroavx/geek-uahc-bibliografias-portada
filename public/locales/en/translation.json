@@ -1,0 +1,74 @@
+{
+  "principal": {
+    "titulo": "Main Menu",
+    "repositorio": "Repository",
+    "repositorioDigital": "",
+    "miudla": "My UDLA",
+    "estudiantes": "Students",
+    "egresados": "Graduates",
+    "pagos": "Payment Portal",
+    "biblioteca": "Library",
+    "ingresar": "Login",
+    "ingresar-admin": "Admin Login"
+  },
+  "sidebar": {
+    "explorar": "Explore",
+    "colecciones": "Collections",
+    "autores": "Authors",
+    "fechaPublicacion": "Issued Date",
+    "temas": "Subjects",
+    "titulos": "Titles",
+    "tiposDocumento": "Document Types",
+    "actasHistoricas": "Historical Records",
+    "actas": "Records"
+  },
+  "buscador": {
+    "buscar": "Search",
+    "busquedaAvanzada": "Advanced search"
+  },
+  "colecciones": {
+    "colecciones": "Collections",
+    "facultades": "Faculties",
+    "facultad_cienciassociales": "Faculty of Social Sciences",
+    "facultad_derecho": "Law School",
+    "facultad_saludsociales": "Facultad de Salud y Ciencias Sociales",
+    "facultad_arquitectura": "Faculty of Design and Construction",
+    "facultad_educacion": "Education Faculty",
+    "facultad_negocios": "Faculty of Engineering and Business",
+    "facultad_cienciassalud": "Faculty of Health Sciences",
+    "facultad_artes": "Faculty of Communications and Arts",
+    "facultad_veterinaria": "Faculty of Medicine, Veterinary Medicine and Agronomy",
+    "institutos": "Institutes",
+    "instituto_ciencias": "Institute of Natural Sciences",
+    "instituto_ingles": "English language institute",
+    "instituto_matematicas": "Institute of Mathematics, Physics and Statistics",
+    "instituto_deporte": "Sports Institute",
+    "otros": "Other collections",
+    "otros_academica": "Academic Vice-rectory",
+    "otros_investigacion": "Vice-rectory for Research",
+    "otros_finanzas": "Vice-rectory for Finance",
+    "otros_calidad": "Vice-rectory for Quality Assurance and Institutional Analysis",
+    "otros_admision": "Vice-rectory Admission and Student Development",
+    "otros_operaciones": "Vice-rectory for Operations and Headquarters",
+    "otros_prorrectoria": "Pro-rectory",
+    "otros_secretaria": "General Secretary",
+    "otros_rectoria": "Rectory"
+  },
+  "recientes": {
+    "documentosRecientes": "Recent Submissions",
+    "verMas": "View more"
+  },
+  "banner": {
+    "titulo": "Welcome to our Digital Library",
+    "parrafo1": "The Digital Library of the Academia de Humanismo Cristiano University, collects, preserves and distributes the academic, investigative and patrimonial material in digital format, generated and published by the different Academic Units of the Institution. This repository was started in 2005 with the objective of storing and promoting the degree work of the undergraduate and postgraduate programs, as well as the different publications of the University.",
+    "parrafo2": "",
+    "parrafo3": ""
+  },
+  "footer": {
+    "bibliotecaCentral": "Central Library",
+    "sistemaBibliotecas": "Library System",
+    "informacionGeneral": "General information",
+    "renovaciones": "Renovations",
+    "copyright": "©2020 Library System / University Academy of Christian Humanism"
+  }
+}
