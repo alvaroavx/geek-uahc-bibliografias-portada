@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import logo from '../../../assets/images/logo-udla.svg';
-import acreditada from '../../../assets/images/acreditada.svg';
+import acreditada from '../../../assets/images/acreditada.png';
 import qstars from '../../../assets/images/qstars.jpg';
 import * as Constants from "./constants";
 

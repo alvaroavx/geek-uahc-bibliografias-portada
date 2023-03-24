@@ -13,7 +13,7 @@
   },
   "sidebar": {
     "explorar": "Explorar",
-    "colecciones": "Colecciones",
+    "colecciones": "Comunidades",
     "autores": "Autores",
     "fechaPublicacion": "Fecha de publicación",
     "temas": "Temas",
@@ -27,17 +27,17 @@
     "busquedaAvanzada": "Búsqueda avanzada"
   },
   "colecciones": {
-    "colecciones": "Colecciones",
+    "colecciones": "Comunidades",
     "facultades": "Facultades",
     "facultad_cienciassociales": "Facultad de Ciencias Sociales",
     "facultad_derecho": "Facultad de Derecho",
     "facultad_saludsociales": "Facultad de Salud y Ciencias Sociales",
-    "facultad_arquitectura": "Facultad de Arquitectura, Diseño y Construcción",
+    "facultad_arquitectura": "Facultad de Arquitectura, Animación, Diseño y Construcción",
     "facultad_educacion": "Facultad de Educación",
     "facultad_negocios": "Facultad de Ingeniería y Negocios",
     "facultad_cienciassalud": "Facultad de Ciencias de la Salud",
     "facultad_artes": "Facultad de Comunicaciones y Artes",
-    "facultad_veterinaria": "Facultad de Medicina, Veterinaria y Agronomía",
+    "facultad_veterinaria": "Facultad de Medicina Veterinaria y Agronomía",
     "institutos": "Institutos",
     "instituto_ciencias": "Instituto de Ciencias Naturales",
     "instituto_ingles": "Instituto de Inglés",
@@ -59,7 +59,7 @@
     "verMas": "Ver más"
   },
   "banner": {
-    "titulo": "Bienvenidos a nuestra Biblioteca Digital",
+    "titulo": "Bienvenidos a nuestro Repositorio Institucional",
     "parrafo1": "La Biblioteca Digital de la Universidad Academia de Humanismo Cristiano, recopila, preserva y distribuye el material académico, investigativo y patrimonial en formato digital, generado y publicado por las distintas Unidades Académicas de la Institución. Este repositorio se inició en el año 2005 con objetivo almacenar y promover los trabajos de titulación de las Carreras de pre y post grado, así como las diferentes publicaciones de la Universidad."
   },
   "footer": {

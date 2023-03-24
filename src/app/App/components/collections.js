@@ -71,7 +71,6 @@ function Collections() {
                 <div className="nombre">{t("colecciones.instituto_deporte")}</div>
               </div>
             </a>
-            */}
             <a href={Constants.BASE_URL+"/xmlui/handle/udla/14"}>
               <div className="coleccion otros">
                 <div className="nombre">{t("colecciones.otros_academica")}</div>
@@ -82,7 +81,6 @@ function Collections() {
                 <div className="nombre">{t("colecciones.otros_investigacion")}</div>
               </div>
             </a>
-            {/*
             <a href={Constants.BASE_URL+"/xmlui/handle/udla/16"}>
               <div className="coleccion otros">
                 <div className="nombre">{t("colecciones.otros_finanzas")}</div>

@@ -13,7 +13,7 @@
   },
   "sidebar": {
     "explorar": "Explore",
-    "colecciones": "Collections",
+    "colecciones": "Communities",
     "autores": "Authors",
     "fechaPublicacion": "Issued Date",
     "temas": "Subjects",
@@ -27,17 +27,17 @@
     "busquedaAvanzada": "Advanced search"
   },
   "colecciones": {
-    "colecciones": "Collections",
+    "colecciones": "Communities",
     "facultades": "Faculties",
     "facultad_cienciassociales": "Faculty of Social Sciences",
-    "facultad_derecho": "Law School",
-    "facultad_saludsociales": "Facultad de Salud y Ciencias Sociales",
-    "facultad_arquitectura": "Faculty of Design and Construction",
-    "facultad_educacion": "Education Faculty",
+    "facultad_derecho": "Faculty of Law",
+    "facultad_saludsociales": "Faculty of Health and Social Studies",
+    "facultad_arquitectura": "Faculty of Architecture, Animation, Design and Construction",
+    "facultad_educacion": "Faculty of Education",
     "facultad_negocios": "Faculty of Engineering and Business",
     "facultad_cienciassalud": "Faculty of Health Sciences",
     "facultad_artes": "Faculty of Communications and Arts",
-    "facultad_veterinaria": "Faculty of Medicine, Veterinary Medicine and Agronomy",
+    "facultad_veterinaria": "Faculty of Veterinary Medicine and Agronomy",
     "institutos": "Institutes",
     "instituto_ciencias": "Institute of Natural Sciences",
     "instituto_ingles": "English language institute",
@@ -59,7 +59,7 @@
     "verMas": "View more"
   },
   "banner": {
-    "titulo": "Welcome to our Digital Library",
+    "titulo": "Welcome to our Institutional Repository",
     "parrafo1": "The Digital Library of the Academia de Humanismo Cristiano University, collects, preserves and distributes the academic, investigative and patrimonial material in digital format, generated and published by the different Academic Units of the Institution. This repository was started in 2005 with the objective of storing and promoting the degree work of the undergraduate and postgraduate programs, as well as the different publications of the University.",
     "parrafo2": "",
     "parrafo3": ""
